@@ -15,9 +15,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <br>
-![Stats](https://github-readme-stats.vercel.app/api?username=nightcoder26)](https://github.com/nightcoder26/github-readme-stats)
+<a href="https://github.com/nightcoder26/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nightcoder26&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> <a href="https://github.com/nightcoder26/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nightcoder26&layout=compact&theme=buefy&hide_border=true" /></a> 
 <br>
 <br>
 
-
+### Visitor count
 ![Visitor Count](https://profile-counter.glitch.me/nightcoder26/count.svg)
+
+<br>
+<br>
+#### Top Repositories
+
+
+<a href="https://github.com/nightcoder26/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nightcoder26&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/nightcoder26/nightcoder26.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nightcoder26&repo=nightcoder.github.io&theme=buefy" />
+</a>
+
+<br />
+<br />
