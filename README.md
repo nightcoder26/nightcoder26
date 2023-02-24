@@ -24,15 +24,4 @@ Here are some ideas to get you started:
 
 <br>
 <br>
-#### Top Repositories
 
-
-<a href="https://github.com/nightcoder26/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nightcoder26&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/nightcoder26/nightcoder26.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nightcoder26&repo=nightcoder.github.io&theme=buefy" />
-</a>
-
-<br />
-<br />
