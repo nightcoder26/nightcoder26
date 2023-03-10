@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-### Visitor count
-![Visitor Count](https://profile-counter.glitch.me/nightcoder26/count.svg)
+<!-- ### Visitor count
+![Visitor Count](https://profile-counter.glitch.me/nightcoder26/count.svg) -->
 
 <br>
 <br>
