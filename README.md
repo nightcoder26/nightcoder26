@@ -14,10 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br>
-<a href="https://github.com/nightcoder26/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nightcoder26&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> <a href="https://github.com/nightcoder26/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nightcoder26&layout=compact&theme=buefy&hide_border=true" /></a> 
-<br>
-<br>
+
 
  ### Visitor count
 ![Visitor Count](https://profile-counter.glitch.me/nightcoder26/count.svg)
