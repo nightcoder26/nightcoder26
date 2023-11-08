@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=nightcoder26)](https://github.com/nightcoder26/github-readme-stats)
+<!--
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   
@@ -51,7 +52,7 @@ Here are some ideas to get you started:
  
 </p>
 
-
+-->
  ### Visitor count
 ![Visitor Count](https://profile-counter.glitch.me/nightcoder26/count.svg)
 
