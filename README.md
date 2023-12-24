@@ -55,14 +55,15 @@ Here are some ideas to get you started:
 </p>
 
 -->
+
+
+<br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nightcoder26&" alt="Bhavitha" /></p>
+<br>
+
+
  ### Visitor count
 ![Visitor Count](https://profile-counter.glitch.me/nightcoder26/count.svg)
-
-<br>
-<br>
-
-
-
 
 
 
