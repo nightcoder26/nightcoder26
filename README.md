@@ -1,5 +1,7 @@
 <h1 align="center"> Hello, World 👋</h1>
+<!--
 <img width="1100" src="https://64.media.tumblr.com/ece89fcb5b72631cf76c1f517f9b9098/9fa2d86d31636773-d7/s500x750/ac9a600be2e7626f502e282d42cc7aa6816c6b06.gifv" />
+-->
 <!--
 **nightcoder26/nightcoder26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
