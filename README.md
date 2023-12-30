@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 <br>
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=nightcoder26&" alt="Bhavitha" /></p>
 <br>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nightcoder26&layout=compact"/></p>
 
 
  ### Visitor count
