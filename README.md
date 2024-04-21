@@ -1,4 +1,4 @@
-<h1 align="center"> Hello, World 👋</h1>
+<h1 align="center"> Hello, Earth 🌏👋😼</h1>
 
 <!--
 **nightcoder26/nightcoder26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
