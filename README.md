@@ -1,7 +1,10 @@
 <h1 align="center"> Hello, Earth 🌏👋😼</h1>
+<div align="center">
+ <img src="https://github.com/nightcoder26/nightcoder26/assets/77844703/51b87967-3f71-453d-acba-9f8673c9038c" >
 
-<!--
-**nightcoder26/nightcoder26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
+
+<!--**nightcoder26/nightcoder26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
