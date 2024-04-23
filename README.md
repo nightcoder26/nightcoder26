@@ -5,8 +5,9 @@
  </h1>
 
 <div align="center">
+ <img src="https://media1.tenor.com/m/RUGGdovmONkAAAAd/dance-dancing.gif" width="113px">
+
 <img src="https://github.com/nightcoder26/nightcoder26/assets/77844703/51b87967-3f71-453d-acba-9f8673c9038c" >
-<img src="https://media1.tenor.com/m/RUGGdovmONkAAAAd/dance-dancing.gif" width="113px">
  <img src="https://media1.tenor.com/m/_hUq1BSUsiMAAAAC/cat-cute.gif" width="200px">
 <!-- <img src="https://github.com/nightcoder26/nightcoder26/assets/77844703/9d1e81d9-ada0-4cca-97a9-564ad2e27f2b" > -->
 
