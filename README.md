@@ -39,7 +39,10 @@ Here are some ideas to get you started:
 
 <div align="center">
  <h2>Trailblazer ranks</h2>
- <img width="200px" src="https://github.com/nightcoder26/nightcoder26/assets/77844703/716fb032-e362-42d0-a7ec-f6932ff7e295">
+ <img  src="https://github.com/nightcoder26/nightcoder26/assets/77844703/5e9990f1-4892-4100-beb2-38d7d1def214" width="600px">
+  <img  src="https://github.com/nightcoder26/nightcoder26/assets/77844703/ca828931-c87d-41ca-93c6-30daff083f28" width="600px">
+
+
 </div>
 <div align="center">
  <h2>Visitor count</h2>
