@@ -37,9 +37,14 @@ Here are some ideas to get you started:
 <br>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nightcoder26&layout=compact"/></p>
 
-
- ### Visitor count
-![Visitor Count](https://profile-counter.glitch.me/nightcoder26/count.svg)
+<div align="center">
+ <h2>Trailblazer ranks</h2>
+ <img width="200px" src="https://github.com/nightcoder26/nightcoder26/assets/77844703/716fb032-e362-42d0-a7ec-f6932ff7e295">
+</div>
+<div align="center">
+ <h2>Visitor count</h2>
+ <img src="https://profile-counter.glitch.me/nightcoder26/count.svg">
+</div>
 
 
 
