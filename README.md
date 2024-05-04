@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nightcoder26&layout=compact"/></p>
 
 <div align="center">
- <h2>Trailblazer ranks</h2>
+<!--  <h2>Trailblazer ranks</h2>
    <img  src="https://github.com/nightcoder26/nightcoder26/assets/77844703/e01b59c0-8cd2-422d-bb14-357ae81bd178" width="500px">
 
    <img  src="https://github.com/nightcoder26/nightcoder26/assets/77844703/1db7aa97-de1c-43be-b211-3538d9db25bd" width="500px">
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 
 
-</div>
+</div> -->
 <div align="center">
  <h2>Visitor count</h2>
  <img src="https://profile-counter.glitch.me/nightcoder26/count.svg">
