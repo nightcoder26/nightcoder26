@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nightcoder26&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent" alt="Bhavitha"  />
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nightcoder26&" alt="nightcoder26" /></p>
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nightcoder26&layout=compact"  height="195px"/> -->
 </div> 
 
