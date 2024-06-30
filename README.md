@@ -1,11 +1,10 @@
 <h1 align="center"> Hello world </h1>
 
 <div align="center">
-<!-- <img src="https://media1.tenor.com/m/RUGGdovmONkAAAAd/dance-dancing.gif" width="113px">-->
 
- <img src="https://github.com/nightcoder26/nightcoder26/assets/77844703/51b87967-3f71-453d-acba-9f8673c9038c" > 
-<!--  <img src="https://media1.tenor.com/m/_hUq1BSUsiMAAAAC/cat-cute.gif" width="200px">
-<!-- <img src="https://github.com/nightcoder26/nightcoder26/assets/77844703/9d1e81d9-ada0-4cca-97a9-564ad2e27f2b" > --> 
+<!-- <img src="https://github.com/nightcoder26/nightcoder26/assets/77844703/51b87967-3f71-453d-acba-9f8673c9038c" > -->
+
+<img src="https://github.com/nightcoder26/nightcoder26/assets/77844703/8bdc32d3-dd41-4d3a-b7d6-a2a3d49b76ac">
 
 
 </div>
@@ -29,10 +28,11 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nightcoder26&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent" alt="Bhavitha"  />
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nightcoder26&" alt="nightcoder26" /></p>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nightcoder26&" alt="nightcoder26" style="display: inline-block; vertical-align: top;" />
+</div>
+<!--<img src="https://github-readme-stats.vercel.app/api?username=nightcoder26&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent" alt="Bhavitha" style="display: inline-block; vertical-align: top;" /> -->
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nightcoder26&layout=compact"  height="195px"/> -->
-</div> 
 
 <h4 align="center">Languages, Databases and Frameworks:</h4>
 <div>
