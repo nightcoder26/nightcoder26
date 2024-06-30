@@ -2,8 +2,8 @@ name: Update Profile README
 
 on:
   schedule:
-    # Runs at 00:00 UTC every 5 days
-    - cron: "0 0 */5 * *"
+    # Runs at 00:00 UTC every 20 days
+    - cron: "0 0 */20 * *"
   workflow_dispatch:
 
 jobs:
