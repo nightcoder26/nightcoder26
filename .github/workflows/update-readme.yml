@@ -1,0 +1,35 @@
+name: Update Profile README
+
+on:
+  schedule:
+    # Runs at 00:00 UTC every 3 days
+    - cron: "0 0 */5 * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Get a random image
+        id: random-image
+        run: |
+          IMAGES=($(ls images))
+          RANDOM_IMAGE=${IMAGES[$RANDOM % ${#IMAGES[@]}]}
+          echo "::set-output name=image::$RANDOM_IMAGE"
+
+      - name: Update README
+        run: |
+          IMAGE_NAME=${{ steps.random-image.outputs.image }}
+          sed -i 's|<img src="images/.*" >|<img src="images/'"$IMAGE_NAME"'" >|' README.md
+
+      - name: Commit changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m "Update profile image"
+          git push

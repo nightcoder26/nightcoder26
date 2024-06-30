@@ -4,8 +4,7 @@
 
 <!-- <img src="https://github.com/nightcoder26/nightcoder26/assets/77844703/51b87967-3f71-453d-acba-9f8673c9038c" > -->
 
-<img src="https://github.com/nightcoder26/nightcoder26/assets/77844703/8bdc32d3-dd41-4d3a-b7d6-a2a3d49b76ac">
-
+<img src="images/image4.jpg" >
 
 </div>
 
@@ -25,7 +24,6 @@ Here are some ideas to get you started:
 <!--
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=nightcoder26)](https://github.com/nightcoder26/github-readme-stats)
 -->
-
 
 <div align="center">
   
@@ -55,7 +53,6 @@ Here are some ideas to get you started:
 
 </div>
 
-
 </div>
 <h4 align="center">Contact</h4>
 <div>
@@ -80,10 +77,6 @@ Here are some ideas to get you started:
 
 </div>
 
-
  <div align="center">
  <img src="https://komarev.com/ghpvc/?username=nightcoder26">
 </div>
- 
-
-
