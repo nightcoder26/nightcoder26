@@ -53,7 +53,6 @@ Here are some ideas to get you started:
 
 </div>
 
-</div>
 <h4 align="center">Contact</h4>
 <div>
 <div>
