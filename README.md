@@ -8,30 +8,12 @@
 
 </div>
 
-<!--**nightcoder26/nightcoder26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=nightcoder26)](https://github.com/nightcoder26/github-readme-stats)
--->
 
 <div align="center">
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nightcoder26&" alt="nightcoder26" style="display: inline-block; vertical-align: top;" />
 </div>
-<!--<img src="https://github-readme-stats.vercel.app/api?username=nightcoder26&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent" alt="Bhavitha" style="display: inline-block; vertical-align: top;" /> -->
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nightcoder26&layout=compact"  height="195px"/> -->
-
 <h4 align="center">Languages, Databases and Frameworks:</h4>
 <div>
  
@@ -53,11 +35,15 @@ Here are some ideas to get you started:
 
 </div>
 
-<h4 align="center">Contact</h4>
+<h4 align="center">Socials</h4>
 <div>
 <div>
  
 <p align="center">
+  <a href="https://bhavitha.hashnode.dev/">
+   <img width="48" alt="brand-icon" src="https://github.com/nightcoder26/nightcoder26/assets/77844703/26ff7609-8ffa-4f63-b2c8-6b2ebda3aa58">
+
+  </a>
  
   <a href="https://twitter.com/night_coder26">
     <img src="https://skillicons.dev/icons?i=twitter" />
