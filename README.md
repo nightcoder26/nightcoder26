@@ -1,5 +1,5 @@
 <samp align="center">
-  <a href="https://nightcoder26.github.io/bhavitha/">website</a>
+  <a href="https://bhavitha.vercel.app/">website</a>
   
 </samp>
 <h1 align="center"> 🪴☕ Hello, I'm Bhavitha 😸📚</h1>
