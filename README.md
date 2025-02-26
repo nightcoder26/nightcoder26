@@ -14,11 +14,11 @@
 
 
 
-<div align="center">
+<!--<div align="center">
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nightcoder26&" alt="nightcoder26" style="display: inline-block; vertical-align: top;" />
-</div>
-<!-- <h4 align="center">Languages, Databases and Frameworks:</h4>
+</div> -->
+<h4 align="center">Languages, Databases and Frameworks:</h4>
 <div>
  
 <p align="center">
@@ -27,8 +27,8 @@
   </a>
 </p>
 
-</div> -->
-<!-- <h4 align="center">Tools</h4>
+</div> 
+<h4 align="center">Tools</h4>
 <div>
  
 <p align="center">
@@ -37,7 +37,7 @@
   </a>
 </p>
 
-</div> -->
+</div>
 
 <h4 align="center">Socials</h4>
 <div>
